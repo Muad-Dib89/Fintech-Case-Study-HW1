@@ -8,7 +8,7 @@
 
 * Jerry Cuomo, VP of blockchain technology at IBM was instrumental in founding the platform and blockchain division of IBM. IBM utilizes Hyperledger Fabric, and was a founding member of the Hyperledger consortium. This consortium  worked to develope an open-source Hyperleder Fabric product in tandem with the Linux Foundation.
 
-* The project came about with the idea that there "needed to be a group lookcing after, governing and shepherding technology around blockchain for serious business and enterprises" - Jerry Cuomo 
+* The project came about with the idea that there "needed to be a group looking after, governing and shepherding technology around blockchain for serious business and enterprises" - Jerry Cuomo 
 
 
 
@@ -29,26 +29,23 @@
 * The blockchain industry is growing at an extravegent pace. PoS (proof of stake networks) are cutting don on the envioronment and energy impact of antiquated PoW (Proof of work) solutions. IT is projected that blockchain in the financial sector in the U.S alone will be a $22.5 Billion industry by the year 2026. Regulation in the blockchain industry is starting to mature though there remains alot of ambiguiity. The U.S. government has shown intrest in tokenizing and creating a digital dollar that would continue to jumpstart the industry. Some contries such as China 
 
 * What are the other major companies in this domain?
-Digital Asset, Accenture, Fujitsu, SWIFT, VMware, Wells Fargo, Mitsubishi UFJ Financial Group and Wells Fargo.
+Digital Asset, Accenture, Fujitsu, SWIFT, VMware, Wells Fargo, Ripple, Stellar, Microsoft Azure Blockchain, Oracle Blockchain Cloud Service
 
 ## Results
 
 * IBM blockchian is revolutionizing and transforming businesses big and small across the world. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* Smart Contracts, Distribution, Transaction speed, Adoption (Network addresses) 
 
-* How is your company performing relative to competitors in the same domain?
+* IBM Blockchain has seen outstanding growth and innovation. The trusted network is seeing applications across a wide variety of indsutries. The company continues to innovate and provide leading research in blockchain technologies. Digital transformation is increasing and IBM is a leader in the AI, quantum computing and blockchain space - Arvind Krishna IBM Chairman and CEO. 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Continue to innovate and support NFT research projects. 
 
-* Why do you think that offering this product or service would benefit the company?
+* NFT (Non Fungible Tokes) are growing in popularity and have use cases across countless industires. By investing in research and the technology now while the industry is very younge IBM can position itself with a frist mover advantage and be a major player in the indsutry. 
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 
 ###Resources
 
@@ -61,6 +58,8 @@ Digital Asset, Accenture, Fujitsu, SWIFT, VMware, Wells Fargo, Mitsubishi UFJ Fi
   7. platform#:~:text=Companies%20using%20IBM%20Blockchain%20Platform,billions%2C%20Aetna%20Inc.%2C%20a
   8. https://devops.com/some-trends-to-anticipate-for-blockchain-in-2022/#:~:text=Blockchain%20is%20hot%20right%20now,decentralized%20data%20storage%20and%20accessibility.
   9. https://www.investopedia.com/countries-developing-central-bank-digital-currency-cbdc-5221005
+  10. https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4
+  11.https://www.forbes.com/sites/patrickmoorhead/2021/05/14/ibm-think-2021all-in-on-hybrid-cloud-and-ai/?utm_campaign=sprinklrForbesTechTwitter&utm_content=4822187159&utm_medium=social&utm_source=TWITTER&sh=5e5fc3b14775
 
 
 
