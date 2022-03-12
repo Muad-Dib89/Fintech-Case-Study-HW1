@@ -8,9 +8,8 @@
 
 * Jerry Cuomo, VP of blockchain technology at IBM was instrumental in founding the platform and blockchain division of IBM. IBM utilizes Hyperledger Fabric, and was a founding member of the Hyperledger consortium. This consortium  worked to develope an open-source Hyperleder Fabric product in tandem with the Linux Foundation.
 
-* How did the idea for the company (or project) come about?
+* The project came about with the idea that there "needed to be a group lookcing after, governing and sheherding technology around blockchain for serious business and enterprises" - Jerry Cuomo 
 
-* How is the company funded? How much funding have they received?
 
 
 ## Business Activities:
