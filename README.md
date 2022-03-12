@@ -1,14 +1,12 @@
-# Fintech-Case-Study-HW1
-Homework 1 Case Study
-# TITLE
+# IBM Blockchain Case Study 
 
 ## Overview and Origin
 
-* Name of company
+* IBM: IBM Blockchain Platform
 
-* When was the company incorporated?
+* IBM was founded over 100 years ago in June, 1911. The IBM BLockchain division and platform were founded in 2015. 
 
-* Who are the founders of the company?
+* Jerry Cuomo, VP of blockchain technology at IBM was instrumental in founding the platform and blockchain division of IBM. IBM utilizes Hyperledger Fabric, and was a founding member of the Hyperledger consortium. This consortium  worked to develope an open-source Hyperleder Fabric product in tandem with the Linux Foundation.
 
 * How did the idea for the company (or project) come about?
 
@@ -32,7 +30,7 @@ What solution does this company offer that their competitors do not or cannot of
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
-
+Digital Asset, Accenture, Fujitsu, SWIFT, VMware, Wells Fargo, Mitsubishi UFJ Financial Group and Wells Fargo.
 
 ## Results
 
@@ -52,3 +50,9 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+https://www.ibm.com/blogs/systems/the-evolution-of-the-ibm-blockchain-platform-choice-and-control-on-ibm-z-and-linuxone/
+https://www.coindesk.com/company/ibm-blockchain/
+
